@@ -1,0 +1,32 @@
++incdir+/home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/include
++incdir+/home/ie0521/ws/orpsocv2-master/sim/run/../../bench/verilog
++incdir+/home/ie0521/ws/orpsocv2-master/sim/run/../../sw/bootrom
++incdir+/home/ie0521/ws/orpsocv2-master/sim/run/../../bench/verilog/vpi/verilog
++incdir+/home/ie0521/ws/orpsocv2-master/sim/run/../../bench/verilog/include
++incdir+/home/ie0521/ws/orpsocv2-master/sim/run/../../bench/verilog/usbhostslave
++incdir+/home/ie0521/ws/orpsocv2-master/sim/run/../../bench/verilog/vpi
+-y /home/ie0521/ws/orpsocv2-master/sim/run/../../bench/verilog/vpi/verilog
+-y /home/ie0521/ws/orpsocv2-master/sim/run/../../bench/verilog/include
+-y /home/ie0521/ws/orpsocv2-master/sim/run/../../bench/verilog/usbhostslave
+-y /home/ie0521/ws/orpsocv2-master/sim/run/../../bench/verilog/vpi
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/arbiter
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/cfi_ctrl
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/clkgen
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/dbg_if
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/ethmac
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/i2c_master_slave
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/intgen
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/jtag_tap
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/or1200
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/orpsoc_top
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/ram_wb
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/rom
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/simple_spi
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/smii
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/uart16550
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/usbhostslave
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/wb_ram_b3
+-y  /home/ie0521/ws/orpsocv2-master/sim/run/../../rtl/verilog/wb_switch_b3
+-y /home/ie0521/ws/orpsocv2-master/sim/run/../../bench/verilog
+/home/ie0521/ws/orpsocv2-master/sim/run/../../bench/verilog/orpsoc_testbench.v
+
